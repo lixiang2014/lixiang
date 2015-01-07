@@ -1,0 +1,6 @@
+#deb http://packages.linuxdeepin.com/ubuntu trusty main restricted universe multiverse
+#deb http://packages.linuxdeepin.com/ubuntu trusty-updates main restricted universe multiverse
+#deb http://packages.linuxdeepin.com/deepin trusty main universe non-free
+#deb-src http://packages.linuxdeepin.com/deepin trusty main universe non-free
+#deb http://mirors.163.com/centos/6/os/x86_64/Packages/
+#deb http://mirors.163.com/centos/6/os/i386/Packages/
